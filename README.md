@@ -1,6 +1,7 @@
 # README
 
 This is the finance tracker app from Complete Ruby on Rails Developer course
+
 Things you may want to cover:
 
 * Ruby version
