@@ -31,10 +31,13 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 #Adding twitter-bootstrap views
 gem "twitter-bootstrap-rails"
+gem 'font-awesome-rails'
 gem 'devise-bootstrap-views'
 gem "jquery-rails"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+#Adding the stock_quote to get the information about the quotes
+gem "stock_quote", '>= 1.5.4'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

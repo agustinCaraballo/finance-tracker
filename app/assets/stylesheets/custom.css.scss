@@ -1,0 +1,13 @@
+// "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
+//@import "bootstrap-sprockets";
+//@import "bootstrap";
+@import "font-awesome";
+
+
+.results-block {
+  display: inline-block;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
